@@ -13,4 +13,4 @@
 
     | Number | Item | Description|
     |:----: | -----| -----------|
-    | Week 16| Dialog Box, Name, Numbers | We implmeneted a banking interface|
+    | Week 16| Project 3 (https://github.com/KaneMaharaj/Project-3/tree/166dcaa6b1d7f24cb9dd07d5efbbdeadcfe287bb/src) | We implmeneted a banking interface|
