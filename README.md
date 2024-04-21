@@ -14,5 +14,6 @@
     | Number | Item | Description|
     |:----: | -----| -----------|
     | Project 3| Inheritance Implementation (https://github.com/KaneMaharaj/Project-3/tree/166dcaa6b1d7f24cb9dd07d5efbbdeadcfe287bb/src) | We implmeneted a banking interface|
+    | Test Score Activity| Grade Assingment (https://github.com/KaneMaharaj/Project-3/blob/e65553aeae6340ffe7e280de6ca0ccb08bcc5cb8/TestScores.java) | Through the use of array, we created a manner in which to store indivudial test scores|
     | Project 1| Character Battle (https://github.com/KaneMaharaj/Project-3/blob/e65553aeae6340ffe7e280de6ca0ccb08bcc5cb8/CharacterBattle.java)| Use of if-else statements to create a turn-based fighting game|
     
